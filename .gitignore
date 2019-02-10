@@ -1,0 +1,10 @@
+# Unreal Engine
+Binaries
+Build
+Intermediate
+Saved
+Content/StarterContent
+
+# Clion
+.idea
+cmake-build-debug
